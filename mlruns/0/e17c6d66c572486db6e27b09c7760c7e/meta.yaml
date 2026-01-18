@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/1_sem_4/f_mlops/mlops_assignment/mlruns/0/e17c6d66c572486db6e27b09c7760c7e/artifacts
+deleted_time: 1768734424082
+end_time: 1768732947502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e17c6d66c572486db6e27b09c7760c7e
+run_name: Logistic_Regression_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768732947387
+status: 4
+tags: []
+user_id: kirta

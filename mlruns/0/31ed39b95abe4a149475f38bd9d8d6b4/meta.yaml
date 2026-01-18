@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/1_sem_4/f_mlops/mlops_assignment/mlruns/0/31ed39b95abe4a149475f38bd9d8d6b4/artifacts
+end_time: 1768734385913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31ed39b95abe4a149475f38bd9d8d6b4
+run_name: Gradient_Boosting_Final
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768734371105
+status: 3
+tags: []
+user_id: kirta

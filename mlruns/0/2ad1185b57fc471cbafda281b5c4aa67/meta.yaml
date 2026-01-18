@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/1_sem_4/f_mlops/mlops_assignment/mlruns/0/2ad1185b57fc471cbafda281b5c4aa67/artifacts
+end_time: 1768734354349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ad1185b57fc471cbafda281b5c4aa67
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768734341797
+status: 3
+tags: []
+user_id: kirta

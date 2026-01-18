@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/1_sem_4/f_mlops/mlops_assignment/mlruns/0/4f74a4e1840e43f79a78a7a7eb6fc356/artifacts
+end_time: 1768734302831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f74a4e1840e43f79a78a7a7eb6fc356
+run_name: Logistic_Regression_SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768734287783
+status: 3
+tags: []
+user_id: kirta
